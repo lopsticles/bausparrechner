@@ -1,0 +1,20 @@
+{
+  "name": "bausparrechner",
+  "version": "1.0.0",
+  "description": "Bausparvertrag gegen reine Marktfinanzierung, mit Wohnungsbauprämie, Arbeitnehmersparzulage, Gebühren, Zinsszenarien und Stresstest",
+  "scripts": {
+    "test": "node test/testmatrix.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "homepage": "https://bausparrechner.lopsticles.com/",
+  "keywords": [
+    "bausparen",
+    "bausparvertrag",
+    "wohnungsbaupraemie",
+    "baufinanzierung",
+    "arbeitnehmersparzulage"
+  ],
+  "license": "MIT"
+}
